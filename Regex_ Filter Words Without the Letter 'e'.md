@@ -15,8 +15,8 @@ To write a Python program that filters out and returns all elements from a list 
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: Jwalamukhi S
+Register no: 212223040079
 ```
 ```
 import re l1=[]
