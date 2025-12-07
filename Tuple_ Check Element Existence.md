@@ -11,8 +11,8 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by:  Jwalamukhi S
+Register no: 212223040079
 ```
 ```
 x=("s", 8, "a", "v", "n", "g", "u", "r", "c", "e")
